@@ -11,10 +11,24 @@
    ========================================================================== */
 
 html {
-    color: #222;
+    color:#FEFEFE;
     font-size: 1em;
     line-height: 1.4;
     font-family: 'Poppins', sans-serif;
+    font-weight:3em
+
+}
+
+article {
+    width:15em;
+    margin:0 auto;
+    margin-top:37vh; 
+
+}
+
+body{
+    background-color:black
+
 }
 
 /*
