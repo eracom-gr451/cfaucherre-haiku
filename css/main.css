@@ -19,16 +19,30 @@ html {
 
 }
 
+a {
+    color:white
+}
+
+a:hover {
+color:pink;
+text-decoration:none;
+background-color:black;
+}
+
+
 article {
     width:15em;
     margin:0 auto;
     margin-top:37vh; 
 
+
 }
-
+ 
 body{
-    background-color:black
-
+    
+    background-image:url("../img/haiku.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 /*
